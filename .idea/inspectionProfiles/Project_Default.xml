@@ -1,0 +1,13 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="ONL_PYT_W_09_django_rest_api_warsztat.project.moviebase.urls.showtimes" />
+          <option value="reservation_app.booking_logic.availability.room_name" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
